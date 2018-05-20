@@ -144,12 +144,12 @@ TextureImporter:
       name: atlas_alex_7
       rect:
         serializedVersion: 2
-        x: 134.44608
+        x: 133.40053
         y: 195.60002
-        width: 56.708923
+        width: 57.75447
         height: 56.59999
       alignment: 9
-      pivot: {x: 0.49470037, y: 0.50176644}
+      pivot: {x: 0.50384796, y: 0.50176644}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -158,12 +158,12 @@ TextureImporter:
       name: atlas_alex_10
       rect:
         serializedVersion: 2
-        x: 5
-        y: 156
-        width: 46
-        height: 45
+        x: 4.3867188
+        y: 154.6585
+        width: 47.619404
+        height: 46.867874
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.4958752, y: 0.50869614}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -172,12 +172,12 @@ TextureImporter:
       name: atlas_alex_11
       rect:
         serializedVersion: 2
-        x: 50
-        y: 158
-        width: 33
-        height: 43
+        x: 48.67245
+        y: 156.00002
+        width: 34.87058
+        height: 46.551697
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.511249, y: 0.50481474}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,12 +186,12 @@ TextureImporter:
       name: atlas_alex_12
       rect:
         serializedVersion: 2
-        x: 83
-        y: 158
-        width: 32
-        height: 40
+        x: 82.36731
+        y: 157.64139
+        width: 33.527153
+        height: 41.49208
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.4960961, y: 0.4906626}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -200,12 +200,12 @@ TextureImporter:
       name: atlas_alex_13
       rect:
         serializedVersion: 2
-        x: 115
-        y: 151
-        width: 38
-        height: 47
+        x: 110.02175
+        y: 143.38931
+        width: 46.565224
+        height: 64.455414
       alignment: 9
-      pivot: {x: 0.5, y: 0.49999997}
+      pivot: {x: 0.51493895, y: 0.4826699}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -214,12 +214,12 @@ TextureImporter:
       name: atlas_alex_14
       rect:
         serializedVersion: 2
-        x: 158
-        y: 149
-        width: 31
-        height: 50
+        x: 154.90367
+        y: 142.98013
+        width: 36.461777
+        height: 58.019867
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5100225, y: 0.53464216}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: atlas_alex_15
       rect:
         serializedVersion: 2
-        x: 5
-        y: 112
-        width: 39
-        height: 44
+        x: 4.0584383
+        y: 110
+        width: 40.883125
+        height: 47.364944
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5, y: 0.50670385}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -242,12 +242,12 @@ TextureImporter:
       name: atlas_alex_16
       rect:
         serializedVersion: 2
-        x: 50
-        y: 114
-        width: 29
-        height: 40
+        x: 48.9
+        y: 113.40001
+        width: 31
+        height: 41.899994
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50322574, y: 0.49164662}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -256,12 +256,12 @@ TextureImporter:
       name: atlas_alex_17
       rect:
         serializedVersion: 2
-        x: 83
+        x: 82.99742
         y: 124
-        width: 31
-        height: 30
+        width: 31.131676
+        height: 30.692383
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.49796802, y: 0.4887206}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -270,12 +270,12 @@ TextureImporter:
       name: atlas_alex_18
       rect:
         serializedVersion: 2
-        x: 115
-        y: 85
-        width: 37
-        height: 67
+        x: 113.14979
+        y: 84.3481
+        width: 40.850212
+        height: 69.50212
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.49816665, y: 0.49137926}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -284,12 +284,12 @@ TextureImporter:
       name: atlas_alex_19
       rect:
         serializedVersion: 2
-        x: 155
-        y: 98
-        width: 34
-        height: 54
+        x: 153
+        y: 93.076454
+        width: 38
+        height: 60.923546
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5, y: 0.52399355}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -298,12 +298,12 @@ TextureImporter:
       name: atlas_alex_20
       rect:
         serializedVersion: 2
-        x: 7
-        y: 64
-        width: 47
-        height: 50
+        x: 5.8873796
+        y: 63.014145
+        width: 49.22524
+        height: 51.585754
       alignment: 9
-      pivot: {x: 0.49999997, y: 0.5}
+      pivot: {x: 0.50000006, y: 0.5037409}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -312,12 +312,12 @@ TextureImporter:
       name: atlas_alex_21
       rect:
         serializedVersion: 2
-        x: 54
+        x: 53.7
         y: 92
-        width: 28
-        height: 26
+        width: 28.3
+        height: 26.250008
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50530034, y: 0.49523798}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -326,12 +326,12 @@ TextureImporter:
       name: atlas_alex_22
       rect:
         serializedVersion: 2
-        x: 91
-        y: 97
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 85.6465
+        y: 92
+        width: 25.3535
+        height: 27.519264
+      alignment: 9
+      pivot: {x: 0.5069714, y: 0.49056542}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -354,12 +354,12 @@ TextureImporter:
       name: atlas_alex_24
       rect:
         serializedVersion: 2
-        x: 87
-        y: 43
-        width: 28
-        height: 47
+        x: 85.15379
+        y: 40.38483
+        width: 31.846207
+        height: 50.69241
       alignment: 9
-      pivot: {x: 0.5, y: 0.49999997}
+      pivot: {x: 0.4975854, y: 0.5151692}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -368,12 +368,12 @@ TextureImporter:
       name: atlas_alex_25
       rect:
         serializedVersion: 2
-        x: 115
-        y: 58
-        width: 38
-        height: 32
+        x: 114.117386
+        y: 56.698364
+        width: 39.485886
+        height: 34.463593
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.50353724, y: 0.5020265}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -382,10 +382,10 @@ TextureImporter:
       name: atlas_alex_26
       rect:
         serializedVersion: 2
-        x: 158
-        y: 70
-        width: 36
-        height: 30
+        x: 156
+        y: 68
+        width: 40
+        height: 34
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,12 +466,12 @@ TextureImporter:
       name: atlas_alex_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 223
-        width: 22
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 33
+        y: 218
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -480,12 +480,12 @@ TextureImporter:
       name: atlas_alex_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 223
-        width: 21
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 62
+        y: 218
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -507,6 +507,6 @@ TextureImporter:
     outline: []
     physicsShape: []
   spritePackingTag: 
-  userData: 100053414427787
+  userData: 100058462372196
   assetBundleName: 
   assetBundleVariant: 

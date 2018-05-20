@@ -31,20 +31,52 @@ Mesh:
   m_SubMeshes:
   - serializedVersion: 2
     firstByte: 0
-    indexCount: 6
+    indexCount: 9
     topology: 0
     baseVertex: 0
     firstVertex: 0
-    vertexCount: 4
+    vertexCount: 5
     localAABB:
-      m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.03, y: 0.026666667, z: 0}
+      m_Center: {x: -0.00049999915, y: 0.0004166793, z: 0}
+      m_Extent: {x: 0.030499998, y: 0.027083347, z: 0}
   m_Shapes:
     vertices: []
     shapes: []
     channels: []
     fullWeights: []
-  m_BindPose: []
+  m_BindPose:
+  - e00: 0.7115301
+    e01: -0.7026561
+    e02: 0
+    e03: 0.016977658
+    e10: 0.7026561
+    e11: 0.7115301
+    e12: 0
+    e13: -0.0026655358
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  - e00: 0.24693802
+    e01: -0.96903163
+    e02: 0
+    e03: 0.08750246
+    e10: 0.96903163
+    e11: 0.24693802
+    e12: 0
+    e13: 0.006476856
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
   m_BoneNameHashes: 
   m_RootBoneNameHash: 0
   m_MeshCompression: 0
@@ -52,9 +84,33 @@ Mesh:
   m_KeepVertices: 1
   m_KeepIndices: 1
   m_IndexFormat: 0
-  m_IndexBuffer: 000001000200020001000300
+  m_IndexBuffer: 040002000000010003000400020004000300
   m_Skin:
-  - weight[0]: 0
+  - weight[0]: 0.53323525
+    weight[1]: 0.46676478
+    weight[2]: 0
+    weight[3]: 0
+    boneIndex[0]: 0
+    boneIndex[1]: 1
+    boneIndex[2]: 0
+    boneIndex[3]: 0
+  - weight[0]: 0.96894974
+    weight[1]: 0.031050235
+    weight[2]: 0
+    weight[3]: 0
+    boneIndex[0]: 0
+    boneIndex[1]: 1
+    boneIndex[2]: 0
+    boneIndex[3]: 0
+  - weight[0]: 0.98802066
+    weight[1]: 0.011979318
+    weight[2]: 0
+    weight[3]: 0
+    boneIndex[0]: 0
+    boneIndex[1]: 1
+    boneIndex[2]: 0
+    boneIndex[3]: 0
+  - weight[0]: 1
     weight[1]: 0
     weight[2]: 0
     weight[3]: 0
@@ -62,33 +118,17 @@ Mesh:
     boneIndex[1]: 0
     boneIndex[2]: 0
     boneIndex[3]: 0
-  - weight[0]: 0
-    weight[1]: 0
+  - weight[0]: 0.5072361
+    weight[1]: 0.49276394
     weight[2]: 0
     weight[3]: 0
     boneIndex[0]: 0
-    boneIndex[1]: 0
-    boneIndex[2]: 0
-    boneIndex[3]: 0
-  - weight[0]: 0
-    weight[1]: 0
-    weight[2]: 0
-    weight[3]: 0
-    boneIndex[0]: 0
-    boneIndex[1]: 0
-    boneIndex[2]: 0
-    boneIndex[3]: 0
-  - weight[0]: 0
-    weight[1]: 0
-    weight[2]: 0
-    weight[3]: 0
-    boneIndex[0]: 0
-    boneIndex[1]: 0
+    boneIndex[1]: 1
     boneIndex[2]: 0
     boneIndex[3]: 0
   m_VertexData:
     m_CurrentChannels: 139
-    m_VertexCount: 4
+    m_VertexCount: 5
     m_Channels:
     - stream: 0
       offset: 0
@@ -122,8 +162,8 @@ Mesh:
       offset: 24
       format: 0
       dimension: 4
-    m_DataSize: 192
-    _typelessdata: 8fc2f5bc0e74da3c000000000000000000000000000080bf0000803f0000000000000000000080bf8fc2f53c0e74da3c000000000000000000000000000080bf0000803f0000000000000000000080bf8fc2f5bc0e74dabc000000000000000000000000000080bf0000803f0000000000000000000080bf8fc2f53c0e74dabc000000000000000000000000000080bf0000803f0000000000000000000080bf00006c3e0000e23e00009a3e0000e23e00006c3e0000c23e00009a3e0000c23e
+    m_DataSize: 248
+    _typelessdata: b5f3fdbc29745a3c000000000000000000000000000080bf0000803f586cee3100000000000080bf8fc2f53c0e74da3c000000000000000000000000000080bf0000803f4bc7c13100000000000080bf8fc2f5bc0e74dabc000000000000000000000000000080bf0000803f8cd5993000000000000080bf8fc2f53c0e74dabc000000000000000000000000000080bf0000803f4ee2923000000000000080bf00000000bc47e13c000000000000000000000000000080bf0000803f3c30323100000000000080bf0000000000000000cdcc6a3e0100da3e00009a3e0000e23e00006c3e0000c23e00009a3e0000c23e0000883e0180e23e
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -177,8 +217,8 @@ Mesh:
       m_BitSize: 0
     m_UVInfo: 0
   m_LocalAABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0.03, y: 0.026666667, z: 0}
+    m_Center: {x: -0.00049999915, y: 0.0004166793, z: 0}
+    m_Extent: {x: 0.030499998, y: 0.027083347, z: 0}
   m_MeshUsageFlags: 0
   m_BakedConvexCollisionMesh: 
   m_BakedTriangleCollisionMesh: 
@@ -196,21 +236,108 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PivotPoint: {x: 68, y: 105}
   m_Vertices:
-  - {x: 59, y: 113}
+  - {x: 58.7, y: 109.00001}
   - {x: 77, y: 113}
   - {x: 59, y: 97}
   - {x: 77, y: 97}
-  m_BoneWeights: []
+  - {x: 68, y: 113.25001}
+  m_BoneWeights:
+  - weight0: 0.53323525
+    weight1: 0.46676478
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: -1
+    boneIndex3: -1
+  - weight0: 0.96894974
+    weight1: 0.031050235
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: -1
+    boneIndex3: -1
+  - weight0: 0.98802066
+    weight1: 0.011979318
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: -1
+    boneIndex3: -1
+  - weight0: 1
+    weight1: 0
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: -1
+    boneIndex2: -1
+    boneIndex3: -1
+  - weight0: 0.5072361
+    weight1: 0.49276394
+    weight2: 0
+    weight3: 0
+    boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: -1
+    boneIndex3: -1
   m_Edges:
-  - index1: 0
-    index2: 1
   - index1: 1
     index2: 3
   - index1: 0
     index2: 2
   - index1: 2
     index2: 3
+  - index1: 0
+    index2: 4
+  - index1: 1
+    index2: 4
   m_Holes: []
-  m_Indices: 000000000100000002000000020000000100000003000000
-  m_BindPoses: []
+  m_Indices: 040000000200000000000000010000000300000004000000020000000400000003000000
+  m_BindPoses:
+  - bindPose:
+      e00: 0.7115301
+      e01: -0.7026561
+      e02: 0
+      e03: 0.016977658
+      e10: 0.7026561
+      e11: 0.7115301
+      e12: 0
+      e13: -0.0026655358
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    boneLength: 0.05
+    path: spine1/spine2/ruarm/rlarm/rhand
+    name: rhand
+    color: {r: 1, g: 0, b: 0, a: 1}
+    zOrder: 0
+  - bindPose:
+      e00: 0.24693802
+      e01: -0.96903163
+      e02: 0
+      e03: 0.08750246
+      e10: 0.96903163
+      e11: 0.24693802
+      e12: 0
+      e13: 0.006476856
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    boneLength: 0.07158413
+    path: spine1/spine2/ruarm/rlarm
+    name: rlarm
+    color: {r: 1, g: 0.75, b: 0, a: 1}
+    zOrder: 0
   m_Blendshapes: []
